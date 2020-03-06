@@ -1,0 +1,1 @@
+pscp -l yaowan1 -pw Yw123456 192.168.16.80:/Users/yaowan1/Documents/AutoBuild/build/1-Debug.ipa ./
